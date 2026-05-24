@@ -8,18 +8,6 @@ Senior Software Engineer • AI Engineer • Full-Stack Architect • Cloud & De
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=1200&lines=Senior+Software+Engineer+with+5%2B+Years+Experience;AI+%2F+ML+Engineer+%7C+Cloud+Architect+%7C+DevOps+Engineer;Building+Scalable+Enterprise+Systems;Passionate+About+AI%2C+Automation%2C+and+Innovation;Open+Source+Contributor+and+Technology+Explorer" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rodriguez72097">
-    <img src="https://img.shields.io/github/followers/Rodriguez72097?label=Followers&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/Rodriguez72097">
-    <img src="https://img.shields.io/github/stars/Rodriguez72097?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Rodriguez72097&style=for-the-badge&color=blue" />
-</p>
-
 ---
 
 # 🚀 About Me
